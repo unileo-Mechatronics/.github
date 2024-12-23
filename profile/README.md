@@ -6,4 +6,4 @@ _He stands without retreating in the midst of this overwhelming nightmare. The o
 #### Overview
 This repo contains all projects and interactive materials for mechatronics engineering course.
 
-Due to space limits, all slides and supportive materials is stored inside a [standalone repo](https://github.com/alterlleo/Mechatronics-slides)
+Due to storage limits, all slides and supportive materials is stored inside a [standalone repo](https://github.com/alterlleo/Mechatronics-slides)
